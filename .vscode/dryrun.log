@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/anunciada/LabE/UltraSound-Module/UltraSound-Module'
+make: Leaving directory '/home/anunciada/LabE/UltraSound-Module/UltraSound-Module'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

@@ -1,0 +1,1 @@
+make SOURCES=usound_tx.c && ldpic32 usound_tx.hex -p /dev/ttyS5
